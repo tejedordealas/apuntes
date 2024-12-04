@@ -1,4 +1,4 @@
 # apuntes
 contenido util
-<ins> </ins> todo bien
+<ins>todo bien </ins>
 
